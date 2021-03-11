@@ -24,7 +24,7 @@ string tab[SIZE];
 					    w2 = tab[i].substr(length/2, length/2);
 					    if (w1 == w2) {
 					      cout << tab[i] << endl;
-			    		}
+			    		    }
 			  		}
 			  	}
 			}

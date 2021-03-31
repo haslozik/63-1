@@ -13,7 +13,7 @@ string tab[SIZE];
 	    public:
 	    	
 	        virtual void z1(){
-	  			cout << "Zadanie 1:" << endl;
+	  			cout << "Z 1:" << endl;
 			  	int length;
 			  	string w1, w2;
 			  	
